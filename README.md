@@ -1,20 +1,14 @@
 # [43 MLCourse.ai](https://mlcourse.ai) – Open Machine Learning Course
 ![ODS stickers](https://raw.githubusercontent.com/ygautomo/43-MLCourseAI/master/images/00_ods_stickers.jpg)
 
-
-
-***INSERT GRAPHIC HERE (include hyperlink in image)***
+![ODS stickers](images/00_ods_stickers.jpg)
 
 # Open Machine Learning Course Progress
 
 > [MLCourse.ai](https://mlcourse.ai) is an open Machine Learning course by OpenDataScience. The course is designed to perfectly balance theory and practice. You can take part in several Kaggle Inclass competitions held during the course.
 
 > Current session: February 11th - April 26th, 2019..
-
-> ideally one sentence
-
-> include terms/tags that can be searched
-
+> 
 **Badges will go here**
 
 - build status
@@ -200,6 +194,6 @@ Reach out to me at one of the following places!
 - **[MIT license](http://opensource.org/licenses/mit-license.php)**
 - Copyright 2015 © <a href="http://fvcproductions.com" target="_blank">FVCproductions</a>.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM5NTUyMDExOSwzMDMyMDIxOTUsNjkwNT
-EyMjQ4XX0=
+eyJoaXN0b3J5IjpbOTQ1OTM2Mjg0LDEzOTU1MjAxMTksMzAzMj
+AyMTk1LDY5MDUxMjI0OF19
 -->
