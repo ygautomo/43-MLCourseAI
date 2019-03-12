@@ -1,6 +1,8 @@
 # [43 MLCourse.ai](https://mlcourse.ai) – Open Machine Learning Course
 ![ODS stickers](https://github.com/ygautomo/43-MLCourseAI/images/00_ods_stickers.jpg)
 
+
+
 ***INSERT GRAPHIC HERE (include hyperlink in image)***
 
 # Open Machine Learning Course Progress
@@ -198,5 +200,5 @@ Reach out to me at one of the following places!
 - **[MIT license](http://opensource.org/licenses/mit-license.php)**
 - Copyright 2015 © <a href="http://fvcproductions.com" target="_blank">FVCproductions</a>.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwMjIzMzIyNjBdfQ==
+eyJoaXN0b3J5IjpbNjkwNTEyMjQ4XX0=
 -->
