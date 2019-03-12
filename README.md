@@ -9,11 +9,11 @@
 
 > Current session: February 11th - April 26th, 2019..
 
-## Table of Contents (Optional)
+## Lectures
 
 > If you're `README` has a lot of info, section headers might be nice.
 
-- [Installation](#installation)
+- [Exploratory data analysis with Pandas](#Pandas)
 - [Features](#features)
 - [Contributing](#contributing)
 - [Team](#team)
@@ -39,7 +39,7 @@ let generateProject = project => {
 
 ---
 
-## Installation
+## Pandas
 
 - All the `code` required to get started
 - Images of what it should look like
@@ -149,6 +149,6 @@ Reach out to me at one of the following places!
 - **[MIT license](http://opensource.org/licenses/mit-license.php)**
 - Copyright 2015 © <a href="http://fvcproductions.com" target="_blank">FVCproductions</a>.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzNzg2NzkzMDMsOTQ1OTM2Mjg0LDEzOT
+eyJoaXN0b3J5IjpbLTE5NTcxNTcyNTIsOTQ1OTM2Mjg0LDEzOT
 U1MjAxMTksMzAzMjAyMTk1LDY5MDUxMjI0OF19
 -->
